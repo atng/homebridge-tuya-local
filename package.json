@@ -1,8 +1,6 @@
 {
-  "name": "homebridge-tuya-local",
-
+  "name": "homebridge-tuya-local-atng",
   "version": "3.0.5",
-
   "description": "🏠 Control Tuya Accessories Locally with Homebridge",
   "main": "index.js",
   "scripts": {
@@ -15,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayushsharma82/homebridge-tuya-local.git"
+    "url": "git+https://github.com/atng/homebridge-tuya-local.git"
   },
-  "author": "Rayan Khan (maintained by @ayushsharma82)",
+  "author": "Rayan Khan (maintained by @atng)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ayushsharma82/homebridge-tuya-local/issues"
+    "url": "https://github.com/atng/homebridge-tuya-local/issues"
   },
-  "homepage": "https://github.com/ayushsharma82/homebridge-tuya-local#readme",
+  "homepage": "https://github.com/atng/homebridge-tuya-local#readme",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
