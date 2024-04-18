@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-local-atng",
-  "version": "3.0.5",
+  "version": "3.0.9",
   "description": "🏠 Control Tuya Accessories Locally with Homebridge",
   "main": "index.js",
   "scripts": {
